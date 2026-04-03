@@ -68,3 +68,11 @@ toggleBtn.addEventListener("click", () => {
         icon.classList.replace("fa-sun", "fa-moon");
     }
 });
+const menuToggle = document.querySelector(".menu-toggle");
+const navMenu = document.querySelector(".nav-links");
+
+if (menuToggle && navMenu) {
+    menuToggle.addEventListener("click", () => {
+        navMenu.classList.toggle("active");
+    });
+}
