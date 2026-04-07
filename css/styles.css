@@ -473,3 +473,7 @@ html, body {
     object-fit: cover; /* recorta sin deformar */
     border-radius: 10px;
 }
+.project-img:hover {
+    transform: scale(1.02);
+    transition: 0.3s;
+}
