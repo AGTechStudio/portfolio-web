@@ -1,4 +1,4 @@
-Portfolio Web – Alejandro García
+PORTFOLIO WEB – Alejandro García
 
 Sitio web personal desarrollado como CV online y portfolio profesional.  
 Incluye experiencia laboral, formación académica, habilidades técnicas y proyectos con demostraciones en video.
@@ -7,8 +7,7 @@ Incluye experiencia laboral, formación académica, habilidades técnicas y proy
 
 🚀 Demo
 
-🔗 https://github.com/AGTechStudio/portfolio-web  
-*(Podés agregar GitHub Pages si lo publicás)*
+🔗 https://github.com/AGTechStudio/portfolio-web
 
 ---
 
